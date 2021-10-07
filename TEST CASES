@@ -1,0 +1,22 @@
+# Tip-Calculator/ Test Cases
+
+Whether user is able to enter in the amount of bill.
+Whether user is getting the option to select the percentage of tip from the dropdown.
+Check whether the user is able to enter values in number of people box.
+Check whether the calculator is giving the right answer or not.
+Check if it is updating the UI with the output data.
+Check the functioning of calculator by entering decimal value.
+Check if the calculate button is working or not.
+Check if it is able to write the digits or not.
+Verify the number of digits allowed to enter in the calculator for any operation.
+Verify the limit of the response value.
+Check if the Tip percentile is working properly or not.
+Check if the entered amount is giving correct tip to the user.
+Check if the Billamount is working correctly or not.
+Check if it is updating the bill amount correctly or not.
+Verify if the user can delete digits one by one using the backspace key.
+Whether the amount calculated is clear or not on the UI.
+Whether the calculator is showing total amount with tip or not.
+Whether the buttons on UI are properly aligned or not.
+Check if we can reset the pre entered amounts or not.
+Whether reloading the webpage clear the entered information or not.
